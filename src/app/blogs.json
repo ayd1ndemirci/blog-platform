@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "My First Blog",
+      "description": "This is my first blog",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac nisi a purus sagittis fermentum. Nullam dictum arcu et rhoncus maximus. Morbi libero nisl, gravida nec erat et, pretium vehicula erat. Curabitur imperdiet eget velit sed sagittis. Fusce consectetur lacinia velit, placerat cursus tortor interdum at. Ut scelerisque quam nec neque tincidunt pulvinar vitae ac quam. Aliquam venenatis feugiat elit, ut mattis nisi molestie id. Nunc varius quam sed sapien mollis fringilla. Pellentesque quis turpis sit amet eros rhoncus placerat. Nullam ac leo elit. Etiam sagittis varius ligula, eget pellentesque felis viverra ut. Morbi blandit bibendum mi vel vestibulum. Curabitur et nibh eget elit pharetra venenatis. In quis mi a enim elementum bibendum volutpat bibendum risus. Nunc eleifend, ligula eget imperdiet semper, lacus ante maximus lacus, eget ornare massa magna sed quam.",
+      "date": "12 Ağustos 2024 15:28",
+      "author": "ayd1ndemirci",
+      "views": 0
+    },
+    {
+      "id": 2,
+      "title": "My Second Blog",
+      "description": "This is my second blog",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac nisi a purus sagittis fermentum. Nullam dictum arcu et rhoncus maximus. Morbi libero nisl, gravida nec erat et, pretium vehicula erat. Curabitur imperdiet eget velit sed sagittis. Fusce consectetur lacinia velit, placerat cursus tortor interdum at. Ut scelerisque quam nec neque tincidunt pulvinar vitae ac quam. Aliquam venenatis feugiat elit, ut mattis nisi molestie id. Nunc varius quam sed sapien mollis fringilla. Pellentesque quis turpis sit amet eros rhoncus placerat. Nullam ac leo elit. Etiam sagittis varius ligula, eget pellentesque felis viverra ut. Morbi blandit bibendum mi vel vestibulum. Curabitur et nibh eget elit pharetra venenatis. In quis mi a enim elementum bibendum volutpat bibendum risus. Nunc eleifend, ligula eget imperdiet semper, lacus ante maximus lacus, eget ornare massa magna sed quam.",
+      "date": "13 Ağustos 2024 10:00",
+      "author": "ayd1ndemirci",
+      "views": 0
+    },
+    {
+      "id": 3,
+      "title": "My Third Blog",
+      "description": "This is my third blog",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac nisi a purus sagittis fermentum. Nullam dictum arcu et rhoncus maximus. Morbi libero nisl, gravida nec erat et, pretium vehicula erat. Curabitur imperdiet eget velit sed sagittis. Fusce consectetur lacinia velit, placerat cursus tortor interdum at. Ut scelerisque quam nec neque tincidunt pulvinar vitae ac quam. Aliquam venenatis feugiat elit, ut mattis nisi molestie id. Nunc varius quam sed sapien mollis fringilla. Pellentesque quis turpis sit amet eros rhoncus placerat. Nullam ac leo elit. Etiam sagittis varius ligula, eget pellentesque felis viverra ut. Morbi blandit bibendum mi vel vestibulum. Curabitur et nibh eget elit pharetra venenatis. In quis mi a enim elementum bibendum volutpat bibendum risus. Nunc eleifend, ligula eget imperdiet semper, lacus ante maximus lacus, eget ornare massa magna sed quam.",
+      "date": "14 Ağustos 2024 10:00",
+      "author": "ayd1ndemirci",
+      "views": 0
+    },
+    {
+      "id": 4,
+      "title": "My Fourth Blog",
+      "description": "This is my fourth blog",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac nisi a purus sagittis fermentum. Nullam dictum arcu et rhoncus maximus. Morbi libero nisl, gravida nec erat et, pretium vehicula erat. Curabitur imperdiet eget velit sed sagittis. Fusce consectetur lacinia velit, placerat cursus tortor interdum at. Ut scelerisque quam nec neque tincidunt pulvinar vitae ac quam. Aliquam venenatis feugiat elit, ut mattis nisi molestie id. Nunc varius quam sed sapien mollis fringilla. Pellentesque quis turpis sit amet eros rhoncus placerat. Nullam ac leo elit. Etiam sagittis varius ligula, eget pellentesque felis viverra ut. Morbi blandit bibendum mi vel vestibulum. Curabitur et nibh eget elit pharetra venenatis. In quis mi a enim elementum bibendum volutpat bibendum risus. Nunc eleifend, ligula eget imperdiet semper, lacus ante maximus lacus, eget ornare massa magna sed quam.",
+      "date": "15 Ağustos 2024 10:00",
+      "author": "ayd1ndemirci",
+      "views": 0
+    }
+  ]
+}
